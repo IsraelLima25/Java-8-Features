@@ -1,2 +1,2 @@
 # Java-8-Features
-Features Java 8
+Projeto criado para exercitar as features do Java 8. Com foco em se divertir com os novos recursos da linguagem.
